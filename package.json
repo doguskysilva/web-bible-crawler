@@ -1,0 +1,17 @@
+{
+  "name": "we-scrapy-node",
+  "version": "1.0.0",
+  "description": "Node Scrapy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "cheerio-req": "^1.1.2",
+    "scrape-it": "^3.2.2",
+    "tinyreq": "^3.2.0"
+  }
+}
